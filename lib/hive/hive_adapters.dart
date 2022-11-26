@@ -1,0 +1,3 @@
+enum HiveAdapters {
+  developerAdapter,
+}
